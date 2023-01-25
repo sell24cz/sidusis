@@ -13,7 +13,12 @@ Dane wgrane do systemu są przetwarzane i weryfikowane ze słownikiem ze strony 
    * po.csv - przedstawiciel operatora
    * slownik.csv - słownik potrzebny do zamiany pakietów na technologie i prędkości
    * teryt.csv - plik z danymi adresowymi 
-   
+
+#####  SQL
+
+Tabela tworzy się sama podczas każdego za ladunku. W pliku main.php w katalogu lib nalezy wspiać dane do połączenia z bazą.
+
+
 #####  Struktura pliku baza.csv, recznie.csv
  
  zasięg (rzeczywisty/teoretyczny/hurtowy) | pakiet | ulica | nr domu | miasto
