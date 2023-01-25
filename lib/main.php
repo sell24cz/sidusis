@@ -23,7 +23,7 @@ class BAZA
     public $host = "localhost";
     public $baza = "sidusis";
     public $user = "sidusis";
-    public $password = "dFbFcefupGUP4fms";
+    public $password = "";
 
     public function BAZA()
     {
