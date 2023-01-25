@@ -16,7 +16,7 @@ Dane wgrane do systemu są przetwarzane i weryfikowane ze słownikiem ze strony 
 
 #####  SQL
 
-Tabela tworzy się sama podczas każdego za ladunku. W pliku main.php w katalogu lib nalezy wspiać dane do połączenia z bazą.
+Tabela tworzy się sama podczas każdego załadunku. W pliku lib/main.php nalezy wspiać dane do połączenia z bazą.
 
 
 #####  Struktura pliku baza.csv, recznie.csv
