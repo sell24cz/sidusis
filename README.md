@@ -2,7 +2,7 @@
 
 System oparty jest na plikach. Do wygerowania danych potrzebny będzie zestaw plików. ***Pomimo dołożenia wszelkich starań dane powinny być sprawdzone przed wgraniem do systemu SIDUSIS***.
 
-Dane wgrane do systemu są przetwarzane i weryfikowane ze słownikiem ze strony sidusis (pliki należy pobrać za każdym razem). Raporty i błedy są dostępne do wglądu. Pliki generowane sa całościowo jako jeden plik oraz jako plik przyrostowy.
+Dane wgrane do systemu są przetwarzane i weryfikowane ze słownikiem ze strony sidusis (aktualne pliki ze strony sidusis należy pobrać za każdym razem). Raporty i błedy są dostępne do wglądu. Pliki generowane sa całościowo jako jeden plik oraz jako plik przyrostowy.
 
 ## Nazwy plików do importu:
 
