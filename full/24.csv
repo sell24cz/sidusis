@@ -1,0 +1,8 @@
+DI,Nazwa testowa,000,123,1234567
+PO,P1,email@email,+48000000000,http://strona.pl
+ZS,D_Chorzów_ul._Krzywa_41,2463011,Chorzów,0938887,ul. Krzywa,10157,41,50.290735,18.957387,kablowe współosiowe miedziane,(EURO)DOCSIS 3.x,1000,100,rzeczywisty,NIE,TAK,P1
+ZS,GI_Chorzów_ul._Krzywa_43,2463011,Chorzów,0938887,ul. Krzywa,10157,43,50.290737,18.957617,kablowe parowe miedziane,1 Gigabit Ethernet,1000,100,teoretyczny,NIE,TAK,P1
+ZS,D_Chorzów_ul._Różana_10,2463011,Chorzów,0938887,ul. Różana,19000,10,50.290215,18.954788,kablowe współosiowe miedziane,(EURO)DOCSIS 3.x,1000,100,teoretyczny,NIE,TAK,P1
+ZS,G_Chorzów_ul._Różana_8,2463011,Chorzów,0938887,ul. Różana,19000,8,50.290216,18.954546,światłowodowe,GPON,1000,100,rzeczywisty,TAK,NIE,P1
+ZS,GI_Chorzów_ul._Wiosenna_16,2463011,Chorzów,0938887,ul. Wiosenna,24364,16,50.284321,18.955794,kablowe parowe miedziane,1 Gigabit Ethernet,1000,100,rzeczywisty,NIE,TAK,P1
+ZS,G_Chorzów_ul._Wiosenna_20,2463011,Chorzów,0938887,ul. Wiosenna,24364,20,50.28468,18.955901,światłowodowe,GPON,1000,100,teoretyczny,TAK,NIE,P1

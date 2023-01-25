@@ -1,0 +1,18 @@
+<IfModule mod_php4.c>
+  php_value engine off
+</IfModule>
+<IfModule mod_php5.c>
+  php_value engine off
+</IfModule>
+<IfModule mod_php7.c>
+  php_value engine off
+</IfModule>
+<IfModule mod_php8.c>
+  php_value engine off
+</IfModule>
+
+Order Deny,Allow
+Deny from all
+<FilesMatch "\.(?i:xml)$">
+    Allow from all
+</FilesMatch>
