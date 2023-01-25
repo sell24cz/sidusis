@@ -42,9 +42,9 @@ Dostęp do sieci  INTERNET|1 Gigabit Ethernet|1000|100|detal
 
 
 
-#####  Plik teryt
+#####  teryt
 
-Plik teryt to pliki ściągnięte ze strony pomocy sidusis. Ściągnięty plik trzeba rozpakować i wgrać potrzebne wojewódctwa.
+Plik teryt to pliki ściągnięte ze strony pomocy sidusis. Ściągnięte pliki trzeba rozpakować i wgrać potrzebne województwa.
 
 #####  Struktura pliku di.csv,po.csv
 
